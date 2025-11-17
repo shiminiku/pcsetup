@@ -1,5 +1,3 @@
-# Clean Install Flow
-
-Instructions for setup my PC.
+# PC Setup
 
 You can found instructions in `/docs`.
